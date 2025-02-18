@@ -36,9 +36,6 @@ A Python script to aggregate KMZ files from Garmin recordings, extract routes, a
 2. Create a new map and click "Import" to upload your `my_walks.kml`
 3. Choose a light/grey base map (e.g., "Light" or "Simple") so the hot pink overlays stand out
 
-## License
-MIT License
-
 ## Contributing
 Contributions, suggestions, and bug reports are welcome—please open an issue or submit a pull request.
 
