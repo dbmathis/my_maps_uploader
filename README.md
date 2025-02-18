@@ -1,4 +1,4 @@
-# My Uploader
+# My Maps Uploader
 
 A Python script to aggregate KMZ files from Garmin recordings, extract routes, and generate a KML file with hot pink, semi-transparent overlays for Google My Maps. An optional feature allows uploading the KML directly to Google Drive.
 
